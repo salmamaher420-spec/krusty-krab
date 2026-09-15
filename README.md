@@ -1,4 +1,4 @@
-# [Project Name]
+# [Krusty Krab fast-food restaurant brand]
 ### _[Project Tagline / Short Description]_
 
 ---
