@@ -1,7 +1,8 @@
 # [Krusty Krab fast-food restaurant brand]
-### _[Project Tagline /نحن لسنا مجرد مطعم يقدم البرجر؛ بل نحن تجربة متكاملة تجمع بين "الهوية المرحة" التي ترسم الابتسامة على وجوه عملائنا، وبين "الاحترافية الصارمة" في إدارة عمليات قطاع الأغذية والمشروبات (F&B).
+Project tagline: small bites, big vibes 
+Project description: [We are more than just a burger restaurant; we offer a complete experience that blends a "playful identity"—designed to bring a smile to our customers' faces—with a "rigorous professionalism" in managing food and beverage (F&B) operations.
 
-في The Krusty Krab، نؤمن أن الوجبة الاستثنائية تبدأ قبل المطبخ بكثير. تبدأ من اختيار أفضل المكونات الطازجة، وتطبيق أعلى معايير الجودة وسلامة الغذاء، وتنتهي بتقديم خدمة ضيافة دافئة تشعر العميل وكأنه في منزله.]_
+At The Krusty Krab, we believe that an exceptional meal begins long before it reaches the kitchen. It starts with selecting the finest, freshest ingredients and upholding the highest standards of quality and food safety, culminating in a warm, hospitable service that makes every customer feel right at home..]_
 
 ---
 
