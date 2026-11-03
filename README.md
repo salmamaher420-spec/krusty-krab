@@ -7,10 +7,10 @@ At The Krusty Krab, we believe that an exceptional meal begins long before it re
 ---
 
 ##  Team Members
-- **[salma maher mohamed mustafa]**  
-- **[Mostafa Yasser Shoeip]**  
-- **[Nancy Reda Darwish]**  
-- **[Mai Ahmed Mohammed Wafa]**  
+- **[salma maher mohamed mustafa] (content creation-google ads-facebook & instagram ads)
+- **[Mostafa Yasser Shoeip] (content creation-linked in ad-create a website-Preparing a presentation) 
+- **[Nancy Reda Darwish] (content creation-tiktok & snap shat ads)
+- **[Mai Ahmed Mohammed Wafa] (content creation)
 - **[abdullah belal]**
 
 ---
