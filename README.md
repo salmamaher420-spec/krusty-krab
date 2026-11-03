@@ -36,33 +36,34 @@ The project focuses on building a recognizable brand presence for Krusty Krab ac
 ---
 
 ##  Project Scope
-- [Scope item 1]  
-- [Scope item 2]  
-- [Scope item 3]  
-- [Scope item 4]  
-- [Scope item 5]  
+- [Creating social media pages]  
+- [Developing content for social media pages]  
+- [Setting up advertisements on Google Ads]  
+- [Building a website for the restaurant]  
+- [Compiling an email list for email marketing campaigns]  
 
->  **Final Deliverable:** [Describe the final output of the project]
+>  **Final Deliverable:** [Facebook, Instagram, TikTok, LinkedIn, and Snapchat pages,
+Website, Facebook ad]
 
 ---
 
 ## Project Plan (5 Weeks)
 
-###  Week 1 — [Title]
-- [Task]  
+###  Week 1 — [social media]
+- [Creating social media pages]  
 
 
-### Week 2 — [Title]
-- [Task]  
+### Week 2 — [content]
+- [Developing content for social media pages]  
 
 
-### Week 3 — [Title]
-- [Task]  
+### Week 3 — [Google Ads]
+- [Setting up advertisements on Google Ads]  
 
 
-### Week 4 — [Title]
-- [Task]  
+### Week 4 — [website]
+- [Building a website for the restaurant]  
 
 
-### Week 5 — [Title]
-- [Task]  
+### Week 5 — [email marketing]
+- [Compiling an email list for email marketing campaigns]  
