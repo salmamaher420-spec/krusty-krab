@@ -61,13 +61,14 @@ Website, Facebook ad]
 - [Setting up advertisements on Google Ads]
 
   
-## KPIs:
-## 1 - Customer Retention Rate: The percentage of customers who visit the restaurant again within a month or a quarter.
-## 2 - Net Promoter Score (NPS): A measure of how willing customers are to recommend the restaurant to their friends and family.
-
 ### Week 4 — [website]
 - [Building a website for the restaurant]  
 
 
 ### Week 5 — [email marketing]
-- [Compiling an email list for email marketing campaigns]  
+- [Compiling an email list for email marketing campaigns]
+
+  ## KPIs:
+## 1 - Customer Retention Rate: The percentage of customers who visit the restaurant again within a month or a quarter.
+## 2 - Net Promoter Score (NPS): A measure of how willing customers are to recommend the restaurant to their friends and family.
+
